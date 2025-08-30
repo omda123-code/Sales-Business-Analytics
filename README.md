@@ -40,6 +40,7 @@ bash
 ```bash
 pip install pandas numpy seaborn matplotlib
 jupyter notebook notebook/analysis_notebook.ipynb
+
 ## Business Insights :
 
 - Revenue trends help highlight high-performing months.
